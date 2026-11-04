@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>FaceTimer</title>
+    <item>
+      <title>1.4</title>
+      <pubDate>Wed, 04 Nov 2026 11:39:29 +0900</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.4</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.4/FaceTimer-1.4.zip" sparkle:edSignature="W3icrLl8YPs0pZBOR1chA3JYlFHGPY1eCEUGktufBvM5mHAAjRjKYpj8C45kG9WQ8U+ioBRYkx6M5C55u4LxBw==" length="2038610" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
