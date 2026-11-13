@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>FaceTimer</title>
+    <title>Yoohoo</title>
     <item>
-      <title>1.6.1</title>
-      <pubDate>Fri, 13 Nov 2026 09:25:19 +0900</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <title>1.7</title>
+      <pubDate>Fri, 13 Nov 2026 10:32:32 +0900</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.6.1</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.6.1/FaceTimer-1.6.1.zip" sparkle:edSignature="RCfwVJOXXvbK1X2K+fExVYCzV5CsBwJ0IXAF2vT3q5yQ0gNiYsZUdQN87A/4ax2eBCwUsYIZBXWnJfP4MXI5Dw==" length="2239014" type="application/octet-stream"/>
+      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.7</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.7/Yoohoo-1.7.zip" sparkle:edSignature="WfEPuq8c3F1aeiXBfOdRRdNU+fUoToRmd0qtOFJXM0BrKkxeMapH0pnl4tpmBcqjxG2CsZ84xti7Cq2aViTJAQ==" length="2236094" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
