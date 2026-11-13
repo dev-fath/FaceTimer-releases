@@ -3,13 +3,13 @@
   <channel>
     <title>FaceTimer</title>
     <item>
-      <title>1.6</title>
-      <pubDate>Thu, 12 Nov 2026 16:05:28 +0900</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <title>1.6.1</title>
+      <pubDate>Fri, 13 Nov 2026 09:25:19 +0900</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.6</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.6/FaceTimer-1.6.zip" sparkle:edSignature="0C5r1kRECj+Gr1ln8rSsb8xkqW2U+mJcK4bBU678vH4MBFZpnWJXteEGecRHDK8t7odOgQ5UwWjTiXn4MAfxBQ==" length="2232094" type="application/octet-stream"/>
+      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.6.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.6.1/FaceTimer-1.6.1.zip" sparkle:edSignature="RCfwVJOXXvbK1X2K+fExVYCzV5CsBwJ0IXAF2vT3q5yQ0gNiYsZUdQN87A/4ax2eBCwUsYIZBXWnJfP4MXI5Dw==" length="2239014" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
