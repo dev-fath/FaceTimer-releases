@@ -3,13 +3,13 @@
   <channel>
     <title>Yoohoo</title>
     <item>
-      <title>1.7</title>
-      <pubDate>Fri, 13 Nov 2026 10:32:32 +0900</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <title>1.8</title>
+      <pubDate>Thu, 19 Nov 2026 09:26:12 +0900</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.7</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.7/Yoohoo-1.7.zip" sparkle:edSignature="WfEPuq8c3F1aeiXBfOdRRdNU+fUoToRmd0qtOFJXM0BrKkxeMapH0pnl4tpmBcqjxG2CsZ84xti7Cq2aViTJAQ==" length="2236094" type="application/octet-stream"/>
+      <sparkle:releaseNotesLink>https://github.com/dev-fath/FaceTimer-releases/releases/tag/v1.8</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/dev-fath/FaceTimer-releases/releases/download/v1.8/Yoohoo-1.8.zip" sparkle:edSignature="nKok4YT5jbnD59SlpVFf3Arpx9bDkUwqe7kzWLalqvamXXeQLdJ1eIKtq/tVgrZLZuzCt7pFXnrb5LNiLty4DA==" length="2300226" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
